@@ -1,0 +1,6 @@
+{
+  "name": "ระบบจัดการสต๊อกพัสดุ",
+  "description": "ระบบจัดการสต๊อกพัสดุที่ซิงก์ข้อมูลกับ Google Sheets มีฟังก์ชันรับเข้าพัสดุ เบิกพัสดุ แจ้งเตือนเมื่อพัสดุใกล้หมด และสรุปรายงานประจำวัน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
